@@ -1,2 +1,2 @@
-console.log('config.js');
-console.log('version3');
+console.log('congig.js');
+console.log('version1');
